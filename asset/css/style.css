@@ -16,6 +16,7 @@ body {
     height: 100vh;
     background:#3333;
     width: 100%;
+
 }
 
 
@@ -228,12 +229,15 @@ body {
 @media screen and (max-width: 380px){
     .container {
         position: absolute;
-        bottom: 90px;
+        bottom: 270px;
     }
 
     .coin {
-        height: 40px;
+        height: 33px;
         width: 326px;
+    }
+    .coin .coin-logo {
+        width: 18%;
     }
     .slide {
         width: 100%;
@@ -244,7 +248,7 @@ body {
         background:#333;
         display: flex !important;
         position: absolute;
-        bottom: 0px;
+        bottom: 160px;
         border-radius: 10px;
         
     }
