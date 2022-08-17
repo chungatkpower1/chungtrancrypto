@@ -178,7 +178,7 @@ body {
 
     .coin {
         width: 369px;
-        height: 60px;
+        height: 50px;
     }
 
     .coin .coin-logo {
@@ -187,7 +187,7 @@ body {
 
     .container {
         position: absolute;
-        bottom: 145px;
+        bottom: 68px;
     }
     .slide {
         width: 100%;
@@ -200,12 +200,13 @@ body {
         position: absolute;
         bottom: 0;
         border-radius: 10px;
+        height: 55px;
         
     }
 
     .footer-element {
         text-decoration: none;
-        font-size: 18px;
+        font-size: 15px;
         color: white;
         border-right: 1px solid white;
         text-align: center;
@@ -229,12 +230,12 @@ body {
 @media screen and (max-width: 380px){
     .container {
         position: absolute;
-        bottom: 270px;
+        bottom: 70px;
     }
 
     .coin {
-        height: 33px;
-        width: 326px;
+        height: 38px;
+        width: 340px;
     }
     .coin .coin-logo {
         width: 18%;
@@ -248,14 +249,14 @@ body {
         background:#333;
         display: flex !important;
         position: absolute;
-        bottom: 160px;
+        bottom: 0px;
         border-radius: 10px;
         
     }
 
     .footer-element {
         text-decoration: none;
-        font-size: 16px;
+        font-size: 15px;
         color: white;
         border-right: 1px solid white;
         text-align: center;
