@@ -174,7 +174,7 @@ body {
     display: none;
 }
 
-@media screen and (max-width: 417px){
+@media screen and (max-width: 430px){
 
     .coin {
         width: 369px;
