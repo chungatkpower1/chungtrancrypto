@@ -198,7 +198,7 @@ body {
         background:#333;
         display: flex !important;
         position: absolute;
-        bottom: 0;
+        bottom: 40px;
         border-radius: 10px;
         height: 55px;
         
